@@ -79,6 +79,5 @@ class Program35_3_StrNCmpX
 
         String sRet = SDobj.StrRevTogX();
 
-        
     }    
 }
