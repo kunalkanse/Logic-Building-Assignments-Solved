@@ -1,8 +1,6 @@
 
 import java.util.*;
 
-import javax.imageio.event.IIOReadProgressListener;
-
 /*
 
 5. Write a java program which accept number of rows and number of
