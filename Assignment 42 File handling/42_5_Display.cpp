@@ -4,7 +4,7 @@
 
 5. Write a program which accepts file name and one count from user and read
 that number of characters from starting position.
-
+ 
 Input : Demo.txt 12
 
 Output : Display first 12 characters from Demo.txt
